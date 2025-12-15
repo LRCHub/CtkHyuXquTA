@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "なぁ",
+  "base_artist": "YOAKE",
+  "createdAt": "2025-12-15T03:33:16.750268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なぁ、マイフレンド",
+      "artist": "Mr.ふぉるて",
+      "has_synced": false,
+      "path": "select/01_なぁ、マイフレンド_Mr.ふぉるて.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なぁ?なぁ?なぁ?",
+      "artist": "The Mirraz",
+      "has_synced": true,
+      "path": "select/02_なぁ_なぁ_なぁ_The_Mirraz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なぁ",
+      "artist": "YOAKE",
+      "has_synced": false,
+      "path": "select/pl_01_なぁ_YOAKE.txt"
+    }
+  ]
+}
